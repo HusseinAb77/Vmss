@@ -29,7 +29,7 @@ const categories: ServiceCategory[] = [
     items: [
       { title: "Instagram Followers", desc: "Increase followers for your profile." },
       { title: "Instagram Likes", desc: "More likes on your posts / reels." },
-      { title: "Instagram Views", desc: "Boost views for reels and videos." },
+      { title: "Instagram Verification", desc: "Boost views for reels and videos." },
       { title: "Instagram Comments", desc: "Add comments to increase engagement." },
       { title: "Instagram Shares", desc: "Increase shares for better reach." },
       { title: "Instagram Users (Accounts)", desc: "Instagram users / accounts availability." },
