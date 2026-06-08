@@ -29,7 +29,7 @@ const categories: ServiceCategory[] = [
     items: [
       { title: "Instagram Followers", desc: "Increase followers for your profile." },
       { title: "Instagram Unban", desc: "Reactivate Your Banned Account With Vmss" },
-      { title: "Instagram Verification", desc: "Verify your account to get alot of features {Blue Badge}." },
+      { title: "Instagram Verification", desc: "Verify your account to get alot of features {verified Badge}." },
       { title: "Instagram Comments", desc: "More comments on your posts / reels." },
       { title: "Instagram Likes", desc: "Increase likes for better reach." },
       { title: "Instagram Users (Accounts)", desc: "Instagram users / accounts availability." },
