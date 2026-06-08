@@ -28,10 +28,10 @@ const categories: ServiceCategory[] = [
     subtitle: "Boost your profile & post performance with clean delivery.",
     items: [
       { title: "Instagram Followers", desc: "Increase followers for your profile." },
-      { title: "Instagram Likes", desc: "More likes on your posts / reels." },
-      { title: "Instagram Verification", desc: "Boost views for reels and videos." },
-      { title: "Instagram Comments", desc: "Add comments to increase engagement." },
-      { title: "Instagram Shares", desc: "Increase shares for better reach." },
+      { title: "Instagram Unban", desc: "Reactivate Your Banned Account With Vmss" },
+      { title: "Instagram Verification", desc: "Verify your account to get alot of features {Blue Badge}." },
+      { title: "Instagram Comments", desc: "More comments on your posts / reels." },
+      { title: "Instagram Likes", desc: "Increase likes for better reach." },
       { title: "Instagram Users (Accounts)", desc: "Instagram users / accounts availability." },
       { title: "Swap for Users", desc: "Swap / exchange options for users (by request)." },
     ],
@@ -44,6 +44,7 @@ const categories: ServiceCategory[] = [
     items: [
       { title: "TikTok Followers", desc: "Increase followers for your TikTok account." },
       { title: "TikTok Likes", desc: "Boost likes on your videos." },
+      { title: "TikTok Unban", desc: "Reactivate Your Banned Account With Vmss" },
       { title: "TikTok Views", desc: "Increase video views to improve ranking." },
       { title: "TikTok Comments", desc: "Add comments to drive interaction." },
       { title: "TikTok Shares", desc: "Increase shares for wider reach." },
@@ -56,6 +57,7 @@ const categories: ServiceCategory[] = [
     subtitle: "Support your channel growth with members & engagement.",
     items: [
       { title: "Telegram Channel Members", desc: "Increase members for channels." },
+      { title: "Telegram Premium", desc: "Unlock huge features in telegram by getting Premium" },
       { title: "Telegram Group Members", desc: "Boost members for groups." },
       { title: "Telegram Post Views", desc: "Increase views on channel posts." },
       { title: "Telegram Reactions", desc: "More reactions for posts (if needed)." },
@@ -70,8 +72,10 @@ const categories: ServiceCategory[] = [
       { title: "YouTube", desc: "Views / likes / subscribers (packages available)." },
       { title: "Facebook", desc: "Followers / likes / engagement for posts." },
       { title: "X (Twitter)", desc: "Followers / likes / post engagement options." },
-      { title: "Snapchat", desc: "Views / engagement options (by request)." },
+      { title: "Snapchat", desc: "Snapchat Plus / engagement options (by request)." },
       { title: "Custom Order", desc: "Tell us your goal — we’ll suggest the best package." },
+            { title: "Plus For Iphone", desc: "DLinsta, Snapchat plus, Youtube premium..." },
+
     ],
   },
 ];

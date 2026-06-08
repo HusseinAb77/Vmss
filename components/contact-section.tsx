@@ -43,8 +43,8 @@ export function ContactSection({ t, dir = "ltr" }: ContactSectionProps) {
   const isRTL = dir === "rtl";
 
   return (
-    <section className="relative px-8 py-24" dir={dir}>
-      <div className="mx-auto max-w-[1440px]">
+<section id="contact" className="relative px-8 py-24" dir={dir}>
+        <div className="mx-auto max-w-[1440px]">
         {/* Header */}
         <div className="text-center">
           <span className="text-xs font-semibold uppercase tracking-widest text-accent">
