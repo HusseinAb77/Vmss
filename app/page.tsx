@@ -40,7 +40,7 @@ export default function LanguageGate() {
             <span className="text-xs tracking-[0.25em] text-white/60">VMSS</span>
             <span className="mx-1 h-1 w-1 rounded-full bg-white/25" />
             <span className="bg-[linear-gradient(90deg,rgba(168,85,247,1),rgba(236,72,153,1))] bg-clip-text text-xs font-semibold tracking-[0.25em] text-transparent">
-              STORE
+              GROWTH
             </span>
           </div>
 

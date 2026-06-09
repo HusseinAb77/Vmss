@@ -117,7 +117,7 @@ export default function ServicesPage() {
           <div>
             <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 backdrop-blur">
               <span className="inline-flex h-2.5 w-2.5 rounded-full bg-[linear-gradient(90deg,rgba(168,85,247,1),rgba(236,72,153,1))]" />
-              <span className="text-xs tracking-[0.25em] text-white/70">VMSS STORE</span>
+              <span className="text-xs tracking-[0.25em] text-white/70">VMSS Growth</span>
             </div>
 
             <h1 className="mt-6 font-display text-4xl font-bold tracking-tight sm:text-5xl">

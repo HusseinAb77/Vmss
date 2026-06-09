@@ -38,7 +38,7 @@ export function HeroSection() {
             VMSS
           </span>{" "}
           <span className="bg-[linear-gradient(135deg,rgba(236,72,153,1),rgba(168,85,247,0.95))] bg-clip-text text-transparent drop-shadow-[0_10px_35px_rgba(236,72,153,0.22)]">
-            STORE
+            Growth
           </span>
         </h1>
 
