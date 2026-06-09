@@ -7,6 +7,8 @@ const navLinksAr = [
   { label: "الخدمات", href: "#services" },
   { label: "لماذا نحن", href: "#why-us" },
   { label: "تواصل معنا", href: "#contact" },
+    { label: "الثقة أساس النمو", href: "/social-media-ar" },
+
 ];
 
 export function NavbarAr() {
@@ -73,7 +75,7 @@ export function NavbarAr() {
           ))}
 
           <a
-            href="#contact"
+            href="#"
             className="rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground transition-all hover:brightness-110"
           >
             VMSS الأفضل

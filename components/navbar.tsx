@@ -7,6 +7,8 @@ const navLinks = [
   { label: "Services", href: "#services" },
   { label: "Why Us", href: "#why-us" },
   { label: "Contact", href: "#contact" },
+    { label: "Trust Drives Growth", href: "/social-media" },
+
 ];
 
 export function Navbar() {
@@ -70,7 +72,7 @@ export function Navbar() {
           ))}
 
           <a
-            href="#contact"
+            href="#"
             className="rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-accent-foreground transition-all hover:brightness-110"
           >
             VMSS The GOAT
